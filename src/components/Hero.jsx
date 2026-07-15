@@ -154,7 +154,7 @@ function Hero() {
         loop
         playsInline
         aria-hidden="true"
-        className="absolute inset-0 h-full w-full object-cover object-[59%_center] opacity-90 [filter:brightness(1.08)_contrast(1.08)_saturate(1.22)] lg:object-center lg:opacity-100"
+        className="absolute inset-0 h-full w-full object-cover object-[59%_center] opacity-25 [filter:brightness(1.08)_contrast(1.08)_saturate(1.22)] lg:object-center lg:opacity-80"
       >
         <source src={video} type="video/mp4" />
       </video>
